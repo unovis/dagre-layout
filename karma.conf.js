@@ -12,7 +12,7 @@ export default function (config) {
     files: [
       'node_modules/chai/chai.js',
       'node_modules/graphlibrary/dist/graphlib.js',
-      'dist/dagre-layout.js',
+      'dist/bundle.min.js',
       'test/bundle-test.js'
     ],
 

@@ -1,6 +1,6 @@
 /* eslint-env jest */
 import { expect } from 'chai'
-import { Graph, alg } from 'graphlibrary'
+import { Graph, alg } from '@unovis/graphlibrary'
 
 import nestingGraph from '../lib/nesting-graph'
 

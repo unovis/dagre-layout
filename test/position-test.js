@@ -1,6 +1,6 @@
 /* eslint-env jest */
 import { expect } from 'chai'
-import { Graph } from 'graphlibrary'
+import { Graph } from '@unovis/graphlibrary'
 
 import position from '../lib/position'
 

@@ -1,5 +1,5 @@
 /* eslint-env jest */
-import { Graph } from 'graphlibrary'
+import { Graph } from '@unovis/graphlibrary'
 import { expect } from 'chai'
 
 import coordinateSystem from '../lib/coordinate-system'

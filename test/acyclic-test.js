@@ -1,6 +1,6 @@
 /* eslint-env jest */
 import _ from 'lodash'
-import { Graph, alg } from 'graphlibrary'
+import { Graph, alg } from '@unovis/graphlibrary'
 import { expect } from 'chai'
 
 import acyclic from '../lib/acyclic'

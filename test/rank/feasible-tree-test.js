@@ -1,7 +1,7 @@
 /* eslint-env jest */
 import _ from 'lodash'
 import { expect } from 'chai'
-import { Graph } from 'graphlibrary'
+import { Graph } from '@unovis/graphlibrary'
 
 import feasibleTree from '../../lib/rank/feasible-tree'
 

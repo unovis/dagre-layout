@@ -1,7 +1,7 @@
 {
   "name": "@unovis/dagre-layout",
-  "version": "0.8.8",
-  "description": "A fork of `dagre-layout` with individual lodash imports and ESM build",
+  "version": "0.8.8-1",
+  "description": "A fork of `dagre-layout` with individual lodash-es imports and ESM build",
   "author": "Nikita Rokotyan (nikita@f5.com)",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -23,8 +23,8 @@
     "prepublishOnly": "npm run release"
   },
   "dependencies": {
-    "@unovis/graphlibrary": "^2.2.0",
-    "lodash": "^4.17.21"
+    "@unovis/graphlibrary": "^2.2.0-1",
+    "lodash-es": "^4.17.21"
   },
   "devDependencies": {
     "@babel/core": "^7.19.3",
